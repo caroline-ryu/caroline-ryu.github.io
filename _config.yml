@@ -3,8 +3,8 @@
 title: Caroline Ryu
 description: Data Analyst | ORIE @ Cornell Engineering
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+baseurl:"https://carolineryu1.github.io"
+url: "https://carolineryu1.github.io"
 email: #
 
 
